@@ -10,9 +10,9 @@ As an **AI-First software engineer**, I actively orchestrate autonomous agents a
 
 ## 🚀 Key Highlights & Philosophy
 - **Scalable Architectures:** Experienced in microservices, asynchronous event-driven queues, and platform scalability (improving inbound request ingestion by **10x**).
-- **Quality Gates & Quality Systems:** Standardizing test automation, staging environments, and CI/CD gates to ensure robust delivery.
+- **Technical Schema Collaboration:** Designing technical schemas and overall logical flows for highly configurable enterprise application modules and features.
 - **Incident Resolution:** Led responses to critical incidents, systematically identifying bottlenecks and improving service reliability under high-load production scenarios.
-- **AI-Native Workflow:** Actively leveraging agentic developer environments (like Antigravity) to automate boring tasks and focus on complex architecture design.
+- **AI-Native Workflow:** Actively leveraging agentic developer environments and AI assistants to automate boilerplate tasks and focus on complex architecture design.
 
 ---
 
