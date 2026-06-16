@@ -19,7 +19,7 @@ As an **AI-First software engineer**, I actively orchestrate autonomous agents a
 ## 🛠 Tech Stack & Ecosystem
 
 - **Backend Logic:** C# / .NET, C++, Java, Python, Node.js (Express, Fastify), TypeScript, JavaScript
-- **Data & Caching:** PostgreSQL, MongoDB (Mongoose), Redis, Elasticsearch
+- **Data & Caching:** MySQL, MongoDB, Elasticsearch
 - **Tools & Architecture:** Docker, Kubernetes, AWS, REST APIs, GraphQL, Camunda (Workflow Engines)
 - **AI Tooling:** Agentic SDKs, Prompt Engineering, LLM Integration, CLI Automation Scripts
 
@@ -35,7 +35,7 @@ As an **AI-First software engineer**, I actively orchestrate autonomous agents a
 ### 🌐 [Login and Registration API](https://github.com/ananya-gulati/loginandreg)
 *Express.js & MongoDB backend infrastructure.*
 - Demonstrates standard security practices in auth logic.
-- RESTful standards with structured routes and mongoose schema validations.
+- RESTful standards with structured routes and schema validations.
 
 ---
 
