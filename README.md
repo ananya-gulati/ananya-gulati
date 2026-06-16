@@ -18,7 +18,7 @@ As an **AI-First software engineer**, I actively orchestrate autonomous agents a
 
 ## 🛠 Tech Stack & Ecosystem
 
-- **Backend Logic:** Node.js (Express, Fastify), TypeScript, JavaScript, Python, Java, C++
+- **Backend Logic:** C# / .NET, C++, Java, Python, Node.js (Express, Fastify), TypeScript, JavaScript
 - **Data & Caching:** PostgreSQL, MongoDB (Mongoose), Redis, Elasticsearch
 - **Tools & Architecture:** Docker, Kubernetes, AWS, REST APIs, GraphQL, Camunda (Workflow Engines)
 - **AI Tooling:** Agentic SDKs, Prompt Engineering, LLM Integration, CLI Automation Scripts
